@@ -1,0 +1,23 @@
+{
+    "name": "dalwood",
+    "version": "0.0.1",
+    "description": "一个 dispatcher 和 actions 关系思考的小库，与 flux 相比，相当于反面吧。",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./src/__test__/dispatcherTest"
+    },
+    "keywords": [
+        "react",
+        "flux",
+        "dispatcher"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fegg/html-webpack-plugin-remove-script.git"
+    },
+    "author": "小撸",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fegg/html-webpack-plugin-remove-script/issues"
+    }
+}
