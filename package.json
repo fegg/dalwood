@@ -13,11 +13,11 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/fegg/html-webpack-plugin-remove-script.git"
+        "url": "https://github.com/fegg/dalwood.git"
     },
     "author": "小撸",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/fegg/html-webpack-plugin-remove-script/issues"
+        "url": "https://github.com/fegg/dalwood/issues"
     }
 }
